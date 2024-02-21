@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Myaplicacion_sebas</string>
+    <string name="user">User</string>
+    <string name="btn1">Login</string>
+    <string name="btn2">Ingresar</string>
+    <string name="Send">ENVIAR</string>
+</resources>
